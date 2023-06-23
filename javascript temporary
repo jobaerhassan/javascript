@@ -1,0 +1,5 @@
+The trim() function is a built-in JavaScript method that 
+  removes leading and trailing whitespace characters from a string.
+
+  s = "     jobaer     "
+  s.trim() == jobaer
